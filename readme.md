@@ -1,5 +1,5 @@
 <!-- https://dev.to/heydamali/a-guide-to-building-testing-and-deploying-your-first-dapp-with-truffle-ethersjs-ganache-and-react-1mh0 -->
-## Deploying Decentralized Application on Rinkeby Ethereum network with:
+## Deploying a Decentralized Application on Rinkeby Ethereum network with:
 
 [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A development blockchain framework.
 
