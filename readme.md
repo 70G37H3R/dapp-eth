@@ -1,6 +1,6 @@
 ## Deploying Decentralized Application on Rinkeby Ethereum network with:
 
-[Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A testing framework, and a development blockchain.
+[Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A development blockchain framework.
 
 [Ethers.js](https://www.npmjs.com/package/ethers): A library for interacting with deployed smart contracts on the frontend.
 
