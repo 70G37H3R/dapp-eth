@@ -5,7 +5,7 @@
 
 [Ethers.js](https://www.npmjs.com/package/ethers): A library for interacting with deployed smart contracts on the frontend.
 
-[Infura](https://infura.io/): A API provide endpoints for Ethereum network.
+[Infura](https://infura.io/): A API for providing endpoints for Ethereum network.
 
 [React.js](https://reactjs.org/): A framework for building user interfaces.
 
