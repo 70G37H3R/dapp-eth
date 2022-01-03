@@ -1,4 +1,8 @@
 <!-- https://dev.to/heydamali/a-guide-to-building-testing-and-deploying-your-first-dapp-with-truffle-ethersjs-ganache-and-react-1mh0 -->
+## Smart contracts were placed under contracts/ folder and were written with:
+
+[Solidity](https://docs.soliditylang.org/en/v0.5.3/solidity-by-example.html)
+
 ## Deploying a Decentralized Application on Rinkeby Ethereum network with:
 
 [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A development blockchain framework.
@@ -10,10 +14,6 @@
 [React.js](https://reactjs.org/): A framework for building user interfaces.
 
 [Metamask](https://metamask.io/): A cryptocurrency wallet.
-
-## Smart contracts were placed under contracts/ folder and were written with:
-
-[Solidity](https://docs.soliditylang.org/en/v0.5.3/solidity-by-example.html)
 
 ## Installation
 
