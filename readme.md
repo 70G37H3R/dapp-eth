@@ -17,12 +17,6 @@
 
 ## Installation
 
-`curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
-
-`sudo apt update`
-
-`sudo apt install -y nodejs`
-
 `npm install -g truffle@4.1.14`
 
 `npm install @truffle/hdwallet-provider`
