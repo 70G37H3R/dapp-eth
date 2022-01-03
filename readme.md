@@ -1,4 +1,4 @@
-## Deploying Decentralized Application (on Rinkeby Ethereum network) with:
+## Deploying Decentralized Application on Rinkeby Ethereum network with:
 
 [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A testing framework, and a development blockchain.
 
