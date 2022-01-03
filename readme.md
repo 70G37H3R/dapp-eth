@@ -11,7 +11,12 @@
 [Metamask](https://metamask.io/): A cryptocurrency wallet.
 
 ## Installation
-[Tutorial](https://dev.to/heydamali/a-guide-to-building-testing-and-deploying-your-first-dapp-with-truffle-ethersjs-ganache-and-react-1mh0) 
+
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+
+sudo apt update
+
+sudo apt install -y nodejs
 
 npm install github:barrysteyn/node-scrypt#fb60a8d3c158fe115a624b5ffa7480f3a24b03fb
 
