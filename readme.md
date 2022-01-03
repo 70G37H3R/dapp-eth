@@ -6,7 +6,7 @@
 
 [Infura](https://infura.io/): A API provide endpoints for Ethereum network.
 
-[React.js](https://reactjs.org/): A library for interacting with deployed smart contracts on the frontend.
+[React.js](https://reactjs.org/): A framework for building user interfaces.
 
 [Metamask](https://metamask.io/): A cryptocurrency wallet.
 
