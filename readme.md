@@ -11,6 +11,10 @@
 
 [Metamask](https://metamask.io/): A cryptocurrency wallet.
 
+## Smart contracts were placed under chaincode/ folder and were written with:
+
+[Solidity](https://docs.soliditylang.org/en/v0.5.3/solidity-by-example.html)
+
 ## Installation
 
 `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -`
