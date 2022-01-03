@@ -13,5 +13,9 @@
 ## Installation
 [Tutorial](https://dev.to/heydamali/a-guide-to-building-testing-and-deploying-your-first-dapp-with-truffle-ethersjs-ganache-and-react-1mh0) 
 
+npm install github:barrysteyn/node-scrypt#fb60a8d3c158fe115a624b5ffa7480f3a24b03fb
+
+npm install -g truffle@4.1.14
+
 ## License
 MIT
