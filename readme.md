@@ -7,7 +7,7 @@
 
 [Truffle](https://trufflesuite.com/docs/truffle/getting-started/installation): A development blockchain framework.
 
-[Ethers.js](https://www.npmjs.com/package/ethers): A library for interacting with deployed smart contracts on the frontend.
+[Ethers.js](https://docs.ethers.io/v5/getting-started/): A library for interacting with deployed smart contracts on the frontend.
 
 [Infura](https://infura.io/): A API for providing endpoints for Ethereum network.
 
