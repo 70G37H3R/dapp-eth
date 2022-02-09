@@ -19,9 +19,9 @@
 
 `npm install -g truffle@4.1.14`
 
-`npm install @truffle/hdwallet-provider`
-
 `npm install github:barrysteyn/node-scrypt#fb60a8d3c158fe115a624b5ffa7480f3a24b03fb`
+
+`npm install @truffle/hdwallet-provider`
 
 ## License
 MIT
