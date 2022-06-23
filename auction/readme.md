@@ -11,7 +11,7 @@
 
 [Infura](https://infura.io/): A API for providing endpoints for Ethereum network.
 
-[React.js](https://reactjs.org/): A framework for building user interfaces.
+[React.js](https://reactjs.org/): A library for building user interfaces.
 
 [Metamask](https://metamask.io/): A cryptocurrency wallet.
 
