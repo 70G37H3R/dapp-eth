@@ -29,5 +29,7 @@
 
 ![alt text](picture-1.png)
 
+![alt text](picture-2.png)
+
 ## License
 MIT
